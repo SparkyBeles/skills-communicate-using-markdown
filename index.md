@@ -5,6 +5,9 @@
 val name: "Max"
 
 ```
+- [ ] Turn on GitHub Pages
+- [ ] outline my portfolio
+- [ ] Introduce myself to the world
 
 
 
